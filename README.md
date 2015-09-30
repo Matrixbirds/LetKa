@@ -6,6 +6,4 @@ Matrixbirds LeetCode with fun solution
 
 | number | Title | Difficulty | Solutions |
 |:------:|:-----:|:----------:| :-------: |  
-| #258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy |
-[add_digits.rb](https://github.com/Matrixbirds/LetKa/blob/master/add_digits_%23258/add_digits.rb)
-[add_digits2.rb](https://github.com/Matrixbirds/LetKa/blob/master/add_digits_%23258/add_digits2.rb)|
+| #258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy |[add_digits.rb](https://github.com/Matrixbirds/LetKa/blob/master/add_digits_%23258/add_digits.rb) [add_digits2.rb](https://github.com/Matrixbirds/LetKa/blob/master/add_digits_%23258/add_digits2.rb)|
